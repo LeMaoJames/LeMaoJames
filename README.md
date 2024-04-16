@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://raw.githubusercontent.com/LeMaoJames/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LeMaoJames/cf-stats/main/output/light_card.svg)
 
 <!--
 **LeMaoJames/LeMaoJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
